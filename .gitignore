@@ -1,0 +1,6 @@
+ntfy_topic.txt
+seen.json
+watch.log
+launchd.err
+__pycache__/
+.DS_Store
