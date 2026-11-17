@@ -1,4 +1,4 @@
-# Roberval ou la rue 🛏️🚨
+# Roberval ou la rue
 
 > « On remet des chambres en ligne bientôt. »
 > — le Crous, au téléphone. Bientôt quand ? Mystère.
@@ -9,10 +9,10 @@ le fait à ma place, toutes les 2 minutes, sans jamais se lasser ni aller en TD.
 Dès qu'une chambre de la **résidence Roberval** (Compiègne) apparaît sur
 [trouverunlogement.lescrous.fr](https://trouverunlogement.lescrous.fr) :
 
-- 🗣️ le Mac crie « Chambre Roberval disponible au Crous » ;
-- 🔔 une notification macOS s'affiche ;
-- 🌐 la page du logement s'ouvre toute seule ;
-- 📱 le téléphone sonne (via [ntfy](https://ntfy.sh)), même loin du Mac.
+- le Mac crie « Chambre Roberval disponible au Crous » ;
+- une notification macOS s'affiche ;
+- la page du logement s'ouvre toute seule ;
+- le téléphone sonne (via [ntfy](https://ntfy.sh)), même loin du Mac.
 
 Les autres nouveaux logements à Compiègne déclenchent juste une notif discrète,
 au cas où le plan B deviendrait tentant.
